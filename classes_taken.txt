@@ -1,0 +1,27 @@
+Day 1: 
+    Introduction
+
+Day 2: 
+    Brief about & Installation
+
+Day 3: 
+    App Flow & STructures
+
+Day 4: 
+    Dart Programming Basics
+        1. Types
+        2. String & Functions
+        3. Enum Class
+
+Day 5: 
+    List Objects & Its Functions
+    Map Objects & Its Functions
+
+Day 6: 
+    Set Objects & Its Functions
+    DateTime Class & Its attributes
+    Control STructures:
+        1. While, for, nested if with various conditions
+
+Day 7:
+    OOPs
