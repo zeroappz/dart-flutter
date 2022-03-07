@@ -24,4 +24,4 @@ Day 6:
         1. While, for, nested if with various conditions
 
 Day 7:
-    OOPs
+    OOPs - Classes & Objects

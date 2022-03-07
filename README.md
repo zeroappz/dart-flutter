@@ -24,3 +24,22 @@ Following are the syllabus that is going to be covered here to become master in 
   1. Conditional Statements
   2. Looping Statements with live examples
   3. Other examples
+
+# Dart Programming Basics (Day 4)
+  1. Types
+  2. String & Functions
+  3. Enum Class
+
+# Data Structures (Day 5)
+  1. List Objects & Its Functions
+  2. Map Objects & Its Functions
+
+# DS & Control structures (Day 6)
+  1. Set Objects & Its Functions
+  2. DateTime Class & Its attributes
+  3. Control Structures:
+      1. While, for, nested if with various conditions
+    
+
+# Object Oriented Programming (Day 7)
+  1. OOPs - Classes & Objects
