@@ -43,3 +43,6 @@ Following are the syllabus that is going to be covered here to become master in 
 
 # Object Oriented Programming (Day 7)
   1. OOPs - Classes & Objects
+  2. Abstract Class
+  3. Interface
+  4. Callable
